@@ -1,6 +1,4 @@
-# HappyShop Ecommerce Website With Django + React
-
-![DEMO](../master/static/images/proshop_django_demo.png)
+# HappyShop E-commerce Website With Django + React
 
 # Features
 
