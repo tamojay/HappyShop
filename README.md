@@ -1,7 +1,5 @@
 # HappyShop Ecommerce Website With Django + React
 
-Live Demo can be viewed at https://www.buildproshop.com/
-
 ![DEMO](../master/static/images/proshop_django_demo.png)
 
 # Features
